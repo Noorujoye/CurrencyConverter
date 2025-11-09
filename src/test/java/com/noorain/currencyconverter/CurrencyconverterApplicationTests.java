@@ -1,4 +1,4 @@
-package com.noorain.Currencyconverter;
+package com.noorain.currencyconverter;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
